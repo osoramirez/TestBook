@@ -1,0 +1,35 @@
+--- 
+title: " Mi Libro Gitbook "
+author: " Oscar Ramírez "
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: " Este es un libro para aprendizaje de bookdown::gitbook."
+
+---
+
+
+# Prólogo {-}
+
+Este libro contiene algunas guías de como construir un libro para github
+
+Este libro ha sido escrito en [R-Markdown](http://rmarkdown.rstudio.com) empleando el paquete [`bookdown`](https://bookdown.org/yihui/bookdown/)
+
+
+
+```{r include=FALSE}
+# PENDIENTE:
+# Repositorio github:
+# github-repo: rstudio/bookdown-demo
+# site: bookdown::bookdown_site
+#
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+# knitr::opts_chunk$set(cache = TRUE)
+
+```

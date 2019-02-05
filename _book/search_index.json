@@ -1,0 +1,9 @@
+[
+["index.html", "Mi Libro Gitbook Prólogo", " Mi Libro Gitbook Oscar Ramírez 2019-02-04 Prólogo Este libro contiene algunas guías de como construir un libro para github Este libro ha sido escrito en R-Markdown empleando el paquete bookdown "],
+["intro.html", "Chapter 1 Introduction", " Chapter 1 Introduction Esto corresponde a la introducción "],
+["literature.html", "Chapter 2 Literature", " Chapter 2 Literature Here is a review of existing methods. "],
+["methods.html", "Chapter 3 Methods", " Chapter 3 Methods We describe our methods in this chapter. "],
+["applications.html", "Chapter 4 Applications 4.1 Example one 4.2 Example two", " Chapter 4 Applications Some significant applications are demonstrated in this chapter. 4.1 Example one 4.2 Example two "],
+["final-words.html", "Chapter 5 Final Words", " Chapter 5 Final Words We have finished a nice book. "],
+["references.html", "References", " References "]
+]
