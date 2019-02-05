@@ -1,6 +1,6 @@
 --- 
 title: "Mi Libro Gitbook "
-author: " Oscar Ramírez "
+author: " Oscar Ramírez Alán"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
